@@ -1,4 +1,4 @@
-Specific topics for exam 1 :)
+# Specific topics for exam 1 :)
 * Errors
 * Interpolation
   * Lagrange
